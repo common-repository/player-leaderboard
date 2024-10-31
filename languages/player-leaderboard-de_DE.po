@@ -1,0 +1,1072 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-03-17 16:42+0100\n"
+"PO-Revision-Date: 2022-03-17 16:43+0100\n"
+"Last-Translator: Alexander Kunze <kunze@software-kunze.de>\n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-player-leaderboard-admin.php:92
+#: public/class-player-leaderboard-public.php:79
+msgid "Yes"
+msgstr "Ja"
+
+#: admin/class-player-leaderboard-admin.php:93
+#: public/class-player-leaderboard-public.php:80
+msgid "No"
+msgstr "Nein"
+
+#: admin/class-player-leaderboard-admin.php:108
+#: admin/class-player-leaderboard-admin.php:109
+#: admin/class-player-leaderboard-admin.php:119
+#: admin/class-player-leaderboard-admin.php:137
+#: admin/class-player-leaderboard-admin.php:155
+msgid "Player Leaderboard"
+msgstr "Spieler Rangliste"
+
+#: admin/class-player-leaderboard-admin.php:120
+msgid "Competitions"
+msgstr "Wettbewerb"
+
+#: admin/class-player-leaderboard-admin.php:129
+msgid "New Competition"
+msgstr "Neuer Wettbewerb"
+
+#: admin/class-player-leaderboard-admin.php:138
+#: admin/partials/player-leaderboard-competitions.php:137
+msgid "Players"
+msgstr "Spieler"
+
+#: admin/class-player-leaderboard-admin.php:147
+msgid "New Player"
+msgstr "Neuer Spieler"
+
+#: admin/class-player-leaderboard-admin.php:156
+#: admin/partials/player-leaderboard-competitions.php:139
+msgid "Results"
+msgstr "Ergebnisse"
+
+#: admin/class-player-leaderboard-admin.php:165
+#: admin/partials/player-leaderboard-results.php:114
+msgid "New Result"
+msgstr "Neues Spielergebnis"
+
+#: admin/class-player-leaderboard-admin.php:174
+#: admin/partials/player-leaderboard-results.php:115
+msgid "New Results"
+msgstr "Neue Spielergebnisse"
+
+#: admin/class-player-leaderboard-admin.php:247
+#: admin/class-player-leaderboard-players.php:61
+#: admin/class-player-leaderboard-results.php:63
+#: admin/partials/player-leaderboard-player.php:129
+#: admin/partials/player-leaderboard-player.php:162
+msgid "Competition"
+msgstr "Wettbewerb"
+
+#: admin/class-player-leaderboard-admin.php:251
+msgid "No competition selected"
+msgstr "Kein Wettbewerb ausgewählt"
+
+#: admin/class-player-leaderboard-admin.php:256
+msgid "Missing file name"
+msgstr "Bitte einen Dateinamen auswählen!"
+
+#: admin/class-player-leaderboard-admin.php:260
+msgid "Import"
+msgstr "Import"
+
+#: admin/class-player-leaderboard-admin.php:269
+msgid "Invalid Extension"
+msgstr "Datei mit ungültiger Dateiendung"
+
+#: admin/class-player-leaderboard-admin.php:305
+#: admin/class-player-leaderboard-admin.php:364
+#: admin/class-player-leaderboard-admin.php:371
+#: admin/class-player-leaderboard-admin.php:414
+#: admin/class-player-leaderboard-admin.php:421
+#: admin/class-player-leaderboard-admin.php:613
+msgid "Row"
+msgstr "Zeile"
+
+#: admin/class-player-leaderboard-admin.php:306
+msgid "Competition contains not enough elements."
+msgstr "Wettbewerb enthält zu wenig Elemente."
+
+#: admin/class-player-leaderboard-admin.php:315
+msgid "Competiton"
+msgstr "Wettbewerb"
+
+#: admin/class-player-leaderboard-admin.php:316
+msgid "ignored."
+msgstr "ignoriert."
+
+#: admin/class-player-leaderboard-admin.php:353
+msgid "New competiton"
+msgstr "Neuer Wettbewerb"
+
+#: admin/class-player-leaderboard-admin.php:354
+msgid "created."
+msgstr "angelegt."
+
+#: admin/class-player-leaderboard-admin.php:365
+msgid "Missing competition, player skipped."
+msgstr "Kein Wettbewerb, Spieler wurde nicht importiert."
+
+#: admin/class-player-leaderboard-admin.php:372
+msgid "Player contains not enough elements."
+msgstr "Spieler enthält zu wenig Elemente."
+
+#: admin/class-player-leaderboard-admin.php:415
+msgid "Missing competition, result skipped."
+msgstr "Kein Wettbewerb, Ergebnis wurde nicht importiert."
+
+#: admin/class-player-leaderboard-admin.php:422
+msgid "Result contains not enough elements."
+msgstr "Ergebnis enthält zu wenig Elemente."
+
+#: admin/class-player-leaderboard-admin.php:614
+msgid "Contains invalid header: "
+msgstr "Enthält ungültige Kennung:"
+
+#: admin/class-player-leaderboard-admin.php:620
+msgid "Total players inserted"
+msgstr "Anzahl importierter Spieler"
+
+#: admin/class-player-leaderboard-admin.php:621
+msgid "Total results inserted"
+msgstr "Anzahle importierter Ergebnisse"
+
+#: admin/class-player-leaderboard-admin.php:624
+msgid "Total results ignored"
+msgstr "Anzahle importierter Ergebnisse"
+
+#: admin/class-player-leaderboard-admin.php:1205
+msgid "No Competition Selected"
+msgstr "Kein Wettbewerbausgewählt"
+
+#: admin/class-player-leaderboard-players.php:59
+#: admin/class-player-leaderboard-results.php:59
+msgid "Id"
+msgstr "Id"
+
+#: admin/class-player-leaderboard-players.php:60
+#: admin/partials/player-leaderboard-competition.php:475
+#: admin/partials/player-leaderboard-competition.php:521
+#: admin/partials/player-leaderboard-competitions.php:93
+msgid "Name"
+msgstr "Name"
+
+#: admin/class-player-leaderboard-players.php:62
+#: admin/partials/player-leaderboard-competition.php:262
+#: admin/partials/player-leaderboard-competition.php:308
+#: admin/partials/player-leaderboard-competition.php:476
+#: admin/partials/player-leaderboard-competition.php:522
+#: admin/partials/player-leaderboard-player.php:249
+#: public/class-player-leaderboard-public.php:1273
+#: public/partials/player-leaderboard-public-ranking.php:88
+msgid "Rating"
+msgstr "Wertung"
+
+#: admin/class-player-leaderboard-players.php:63
+#: admin/partials/player-leaderboard-competition.php:477
+#: admin/partials/player-leaderboard-competition.php:523
+#: public/class-player-leaderboard-public.php:1055
+#: public/partials/player-leaderboard-public-ranking.php:84
+#: public/partials/player-leaderboard-public-ranking.php:92
+msgid "Duels"
+msgstr "Duelle"
+
+#: admin/class-player-leaderboard-players.php:64
+#: admin/class-player-leaderboard-results.php:67
+#: admin/partials/player-leaderboard-competition.php:478
+#: admin/partials/player-leaderboard-competition.php:524
+#: admin/partials/player-leaderboard-player.php:316
+#: public/class-player-leaderboard-public.php:1267
+#: public/partials/player-leaderboard-public-ranking.php:83
+#: public/partials/player-leaderboard-public-ranking.php:87
+#: public/partials/player-leaderboard-public-standing.php:82
+msgid "Points"
+msgstr "Punkte"
+
+#: admin/class-player-leaderboard-players.php:65
+#: public/partials/player-leaderboard-public-ranking.php:85
+#: public/partials/player-leaderboard-public-ranking.php:94
+msgid "Average"
+msgstr "Mittel"
+
+#: admin/class-player-leaderboard-players.php:66
+#: admin/partials/player-leaderboard-competition.php:479
+#: admin/partials/player-leaderboard-competition.php:526
+msgid "Quotient"
+msgstr "Quotient"
+
+#: admin/class-player-leaderboard-players.php:67
+#: admin/partials/player-leaderboard-competition.php:528
+#: admin/partials/player-leaderboard-competitions.php:97
+#: public/partials/player-leaderboard-public-ranking.php:90
+msgid "Ratings"
+msgstr "Wertungen"
+
+#: admin/class-player-leaderboard-players.php:68
+#: admin/partials/player-leaderboard-competition.php:480
+#: admin/partials/player-leaderboard-competition.php:527
+msgid "Rating Points"
+msgstr "Wertungspunkte"
+
+#: admin/class-player-leaderboard-players.php:69
+#: admin/class-player-leaderboard-results.php:70
+#: admin/partials/player-leaderboard-competition.php:530
+#: admin/partials/player-leaderboard-competitions.php:99
+#: admin/partials/player-leaderboard-player.php:318
+msgid "Action"
+msgstr "Aktion"
+
+#: admin/class-player-leaderboard-players.php:114
+#: admin/class-player-leaderboard-results.php:110
+#: admin/partials/player-leaderboard-competition.php:437
+#: admin/partials/player-leaderboard-player.php:274
+#: admin/partials/player-leaderboard-result.php:371
+msgid "Delete"
+msgstr "Löschen"
+
+#: admin/class-player-leaderboard-players.php:191
+#: admin/class-player-leaderboard-players.php:201
+#: admin/class-player-leaderboard-results.php:235
+#: admin/class-player-leaderboard-results.php:245
+#: admin/partials/player-leaderboard-competition.php:546
+#: admin/partials/player-leaderboard-competitions.php:133
+msgid "Details"
+msgstr "Details"
+
+#: admin/class-player-leaderboard-players.php:195
+#: admin/class-player-leaderboard-players.php:205
+#: admin/class-player-leaderboard-results.php:239
+#: admin/class-player-leaderboard-results.php:249
+#: admin/partials/player-leaderboard-competition.php:436
+#: admin/partials/player-leaderboard-competition.php:548
+#: admin/partials/player-leaderboard-competitions.php:135
+#: admin/partials/player-leaderboard-player.php:273
+#: admin/partials/player-leaderboard-player.php:364
+#: admin/partials/player-leaderboard-player.php:366
+#: admin/partials/player-leaderboard-result.php:370
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: admin/class-player-leaderboard-results.php:60
+#: admin/partials/player-leaderboard-player.php:288
+#: admin/partials/player-leaderboard-result.php:130
+#: admin/partials/player-leaderboard-results-multiple.php:53
+#: admin/partials/player-leaderboard-results.php:132
+msgid "Date"
+msgstr "Datum"
+
+#: admin/class-player-leaderboard-results.php:61
+#: admin/partials/player-leaderboard-player.php:296
+msgid "Player1"
+msgstr "Spieler1"
+
+#: admin/class-player-leaderboard-results.php:62
+#: admin/partials/player-leaderboard-player.php:297
+msgid "Player2"
+msgstr "Spieler2"
+
+#: admin/class-player-leaderboard-results.php:64
+#: admin/partials/player-leaderboard-player.php:302
+msgid "Set1"
+msgstr "Satz1"
+
+#: admin/class-player-leaderboard-results.php:65
+#: admin/partials/player-leaderboard-player.php:304
+msgid "Set2"
+msgstr "Satz2"
+
+#: admin/class-player-leaderboard-results.php:66
+#: admin/partials/player-leaderboard-player.php:305
+msgid "Set3"
+msgstr "Satz3"
+
+#: admin/class-player-leaderboard-results.php:68
+#: admin/partials/player-leaderboard-player.php:317
+#: public/class-player-leaderboard-public.php:1262
+#: public/partials/player-leaderboard-public-standing.php:84
+msgid "Sets"
+msgstr "Sätze"
+
+#: admin/class-player-leaderboard-results.php:69
+msgid "Rating Flag"
+msgstr "Gewertet"
+
+#: admin/class-player-leaderboard-results.php:167
+#: admin/partials/player-leaderboard-player.php:326
+#: admin/partials/player-leaderboard-results.php:138
+#: public/class-player-leaderboard-public.php:764
+#: public/class-player-leaderboard-public.php:1091
+msgid "Y/m/d"
+msgstr "d.m.Y"
+
+#: admin/partials/player-leaderboard-competition.php:63
+msgid "Competition recalculated!"
+msgstr "Die Bewertung der Spieler des Wettkampfes wurden neu bewertet!"
+
+#: admin/partials/player-leaderboard-competition.php:94
+msgid "Recalc Conmpetition"
+msgstr "Wettbewerb neu bewerten"
+
+#: admin/partials/player-leaderboard-competition.php:95
+msgid "Recalc the competition ranking?"
+msgstr "Bewertung der Spieler des Wettbewerbes neu berechnen?"
+
+#: admin/partials/player-leaderboard-competition.php:97
+msgid "Delete Conmpetition"
+msgstr "Wettbewerb Löschen"
+
+#: admin/partials/player-leaderboard-competition.php:98
+msgid "Delete the competition?"
+msgstr "Willst Du den Wettbewerb wirklich Löschen?"
+
+#: admin/partials/player-leaderboard-competition.php:118
+msgid " edit"
+msgstr " bearbeiten"
+
+#: admin/partials/player-leaderboard-competition.php:118
+msgid "Create Competition"
+msgstr "Neuen Wettkampf Anlegen"
+
+#: admin/partials/player-leaderboard-competition.php:129
+#: admin/partials/player-leaderboard-competitions.php:72
+msgid "CSV Import"
+msgstr "CSV Importieren"
+
+#: admin/partials/player-leaderboard-competition.php:134
+#: admin/partials/player-leaderboard-competitions.php:77
+msgid "Reset Ratings"
+msgstr "Wertungen Zurücksetzen"
+
+#: admin/partials/player-leaderboard-competition.php:136
+#: admin/partials/player-leaderboard-competitions.php:79
+msgid "If this option is checked, the rating will be reset during the import"
+msgstr ""
+"Wenn diese Option ausgewählt ist, dann werden nach dem Import alle "
+"bisherigen Wertungen zurückgesetzt"
+
+#: admin/partials/player-leaderboard-competition.php:139
+#: admin/partials/player-leaderboard-competitions.php:82
+msgid "Import Results"
+msgstr "Spielergebnisse Erfassen"
+
+#: admin/partials/player-leaderboard-competition.php:141
+#: admin/partials/player-leaderboard-competitions.php:84
+msgid "If this option is not checked, the results are not imported"
+msgstr ""
+"Wenn diese Option ausgewählt ist, dann werden nach dem Import alle "
+"bisherigen Wertungen zurückgesetzt"
+
+#: admin/partials/player-leaderboard-competition.php:155
+msgid "Name of the competition"
+msgstr "Wettbewerbname"
+
+#: admin/partials/player-leaderboard-competition.php:163
+#: admin/partials/player-leaderboard-competitions.php:96
+msgid "Description"
+msgstr "Beschreibung"
+
+#: admin/partials/player-leaderboard-competition.php:171
+#: admin/partials/player-leaderboard-competitions.php:94
+msgid "Type"
+msgstr "Typ"
+
+#: admin/partials/player-leaderboard-competition.php:176
+#: admin/partials/player-leaderboard-competitions.php:108
+msgid "Single"
+msgstr "Einzel"
+
+#: admin/partials/player-leaderboard-competition.php:177
+#: admin/partials/player-leaderboard-competitions.php:109
+msgid "Double"
+msgstr "Doppel"
+
+#: admin/partials/player-leaderboard-competition.php:178
+#: admin/partials/player-leaderboard-competitions.php:110
+#: admin/partials/player-leaderboard-player.php:115
+#: public/partials/player-leaderboard-public-standing.php:79
+msgid "Team"
+msgstr "Mannschaft"
+
+#: admin/partials/player-leaderboard-competition.php:182
+#: admin/partials/player-leaderboard-competition.php:195
+#: admin/partials/player-leaderboard-competition.php:201
+#: admin/partials/player-leaderboard-player.php:176
+#: admin/partials/player-leaderboard-player.php:181
+msgid "Female"
+msgstr "Weiblich"
+
+#: admin/partials/player-leaderboard-competition.php:183
+#: admin/partials/player-leaderboard-competition.php:196
+#: admin/partials/player-leaderboard-competition.php:202
+#: admin/partials/player-leaderboard-player.php:177
+#: admin/partials/player-leaderboard-player.php:182
+msgid "Male"
+msgstr "Männlich"
+
+#: admin/partials/player-leaderboard-competition.php:184
+#: admin/partials/player-leaderboard-competition.php:204
+#: admin/partials/player-leaderboard-competition.php:243
+#: admin/partials/player-leaderboard-player.php:175
+#: admin/partials/player-leaderboard-player.php:183
+msgid "Unknown"
+msgstr "Unbekannt"
+
+#: admin/partials/player-leaderboard-competition.php:190
+#: admin/partials/player-leaderboard-player.php:170
+msgid "Gender"
+msgstr "Geschlecht"
+
+#: admin/partials/player-leaderboard-competition.php:197
+#: admin/partials/player-leaderboard-competition.php:203
+msgid "Mixed"
+msgstr "Gemischt"
+
+#: admin/partials/player-leaderboard-competition.php:212
+#: admin/partials/player-leaderboard-competitions.php:95
+msgid "Kind of Sport"
+msgstr "Sportart"
+
+#: admin/partials/player-leaderboard-competition.php:217
+#: admin/partials/player-leaderboard-competition.php:224
+#: admin/partials/player-leaderboard-player.php:132
+#: admin/partials/player-leaderboard-results-multiple.php:121
+#: admin/partials/player-leaderboard-results-multiple.php:128
+#: admin/partials/player-leaderboard-results-multiple.php:137
+#: admin/partials/player-leaderboard-results-multiple.php:144
+msgid "Please select..."
+msgstr "Bitte auswählen ..."
+
+#: admin/partials/player-leaderboard-competition.php:218
+#: admin/partials/player-leaderboard-competition.php:234
+#: admin/partials/player-leaderboard-competitions.php:116
+msgid "Badminton"
+msgstr "Badminton"
+
+#: admin/partials/player-leaderboard-competition.php:219
+#: admin/partials/player-leaderboard-competition.php:235
+#: admin/partials/player-leaderboard-competitions.php:117
+msgid "Tennis"
+msgstr "Tennis"
+
+#: admin/partials/player-leaderboard-competition.php:220
+#: admin/partials/player-leaderboard-competitions.php:118
+msgid "Table Tennis"
+msgstr "Tischtennis"
+
+#: admin/partials/player-leaderboard-competition.php:221
+#: admin/partials/player-leaderboard-competition.php:237
+#: admin/partials/player-leaderboard-competitions.php:119
+msgid "Squash"
+msgstr "Squash"
+
+#: admin/partials/player-leaderboard-competition.php:225
+#: admin/partials/player-leaderboard-competition.php:238
+#: admin/partials/player-leaderboard-competitions.php:120
+msgid "Basketball"
+msgstr "Basketball"
+
+#: admin/partials/player-leaderboard-competition.php:226
+#: admin/partials/player-leaderboard-competition.php:239
+#: admin/partials/player-leaderboard-competitions.php:121
+msgid "Field Hockey"
+msgstr "Feldhockey"
+
+#: admin/partials/player-leaderboard-competition.php:227
+#: admin/partials/player-leaderboard-competitions.php:122
+msgid "Handball"
+msgstr "Handball"
+
+#: admin/partials/player-leaderboard-competition.php:228
+#: admin/partials/player-leaderboard-competition.php:240
+#: admin/partials/player-leaderboard-competitions.php:123
+msgid "Hockey"
+msgstr "Eishockey"
+
+#: admin/partials/player-leaderboard-competition.php:229
+#: admin/partials/player-leaderboard-competition.php:241
+#: admin/partials/player-leaderboard-competitions.php:124
+msgid "Soccer"
+msgstr "Fußball"
+
+#: admin/partials/player-leaderboard-competition.php:230
+#: admin/partials/player-leaderboard-competition.php:242
+#: admin/partials/player-leaderboard-competitions.php:125
+msgid "Volleyball"
+msgstr "Volleyball"
+
+#: admin/partials/player-leaderboard-competition.php:236
+msgid "TableTennis"
+msgstr "Tischtennis"
+
+#: admin/partials/player-leaderboard-competition.php:251
+msgid "Best-Of"
+msgstr "Max Sätze"
+
+#: admin/partials/player-leaderboard-competition.php:255
+msgid "Maximum of possible played sets"
+msgstr "Maximale Anzahl von gespielten Sätzen"
+
+#: admin/partials/player-leaderboard-competition.php:266
+msgid "Maximum points for a duel"
+msgstr "Maximale Punktezahl, welche in einem Duell erreicht werden"
+
+#: admin/partials/player-leaderboard-competition.php:276
+msgid "Victory Points"
+msgstr "Punkte bei Sieg"
+
+#: admin/partials/player-leaderboard-competition.php:282
+msgid "Defeat Points"
+msgstr "Punkte bei Niederlage"
+
+#: admin/partials/player-leaderboard-competition.php:290
+msgid "Draw Points"
+msgstr "Punkt bei Unendschieden"
+
+#: admin/partials/player-leaderboard-competition.php:296
+msgid "Bonus Points"
+msgstr "Bonus Punkte"
+
+#: admin/partials/player-leaderboard-competition.php:300
+msgid "Bonus rating points for each played game"
+msgstr "Bonus Punkte für jedes Spiel"
+
+#: admin/partials/player-leaderboard-competition.php:312
+msgid "Base rating points for a each played duel"
+msgstr "Basiswert für die Bewertung der Duelle"
+
+#: admin/partials/player-leaderboard-competition.php:315
+msgid "No Duel Points"
+msgstr "Kein Duell Punkte"
+
+#: admin/partials/player-leaderboard-competition.php:319
+msgid "Bonus rating points for a not played duel"
+msgstr "Bonus Punkte für ein nicht gespieltes Duell"
+
+#: admin/partials/player-leaderboard-competition.php:324
+msgid "Game Factor"
+msgstr "Spielfaktor"
+
+#: admin/partials/player-leaderboard-competition.php:330
+msgid "Set Factor"
+msgstr "Satzfaktor"
+
+#: admin/partials/player-leaderboard-competition.php:338
+msgid "Number Ratings"
+msgstr "Anz. Wertungen"
+
+#: admin/partials/player-leaderboard-competition.php:342
+msgid "Number of recalculated ratings for this competition"
+msgstr "Anzahl der berechneten Wertungen für diesen Wettbewerb"
+
+#: admin/partials/player-leaderboard-competition.php:347
+msgid "Delta Ratings"
+msgstr "Delta Wertung"
+
+#: admin/partials/player-leaderboard-competition.php:353
+msgid "Delta Percent"
+msgstr "Delta Prozent"
+
+#: admin/partials/player-leaderboard-competition.php:364
+msgid "Header"
+msgstr "Kopfzeile"
+
+#: admin/partials/player-leaderboard-competition.php:370
+msgid "Matrix Low Color"
+msgstr "Matrix Low Farbe"
+
+#: admin/partials/player-leaderboard-competition.php:378
+msgid "Border Color"
+msgstr "Rahmenfarbe"
+
+#: admin/partials/player-leaderboard-competition.php:384
+msgid "Matrix Mid Color"
+msgstr "Matrix Mid Farbe"
+
+#: admin/partials/player-leaderboard-competition.php:392
+msgid "Text Color"
+msgstr "Textfarbe"
+
+#: admin/partials/player-leaderboard-competition.php:398
+msgid "Matrix High Color"
+msgstr "Matrix High Farbe"
+
+#: admin/partials/player-leaderboard-competition.php:406
+msgid "Matrix Zero Color"
+msgstr "Matrix Zero Farbe"
+
+#: admin/partials/player-leaderboard-competition.php:412
+msgid "Matrix Max Color"
+msgstr "Matrix Max Farbe"
+
+#: admin/partials/player-leaderboard-competition.php:424
+#: admin/partials/player-leaderboard-player.php:261
+#: admin/partials/player-leaderboard-players.php:101
+#: admin/partials/player-leaderboard-players.php:103
+#: admin/partials/player-leaderboard-result.php:336
+#: admin/partials/player-leaderboard-result.php:338
+#: admin/partials/player-leaderboard-result.php:342
+#: admin/partials/player-leaderboard-result.php:344
+#: admin/partials/player-leaderboard-results.php:111
+#: admin/partials/player-leaderboard-results.php:113
+msgid "Back"
+msgstr "Zurück"
+
+#: admin/partials/player-leaderboard-competition.php:430
+#: admin/partials/player-leaderboard-player.php:267
+#: admin/partials/player-leaderboard-result.php:352
+msgid "Save"
+msgstr "Speichern"
+
+#: admin/partials/player-leaderboard-competition.php:432
+#: admin/partials/player-leaderboard-player.php:269
+#: admin/partials/player-leaderboard-result.php:354
+#: admin/partials/player-leaderboard-results-multiple.php:206
+msgid "Create"
+msgstr "Anlegen"
+
+#: admin/partials/player-leaderboard-competition.php:434
+#: admin/partials/player-leaderboard-player.php:271
+#: admin/partials/player-leaderboard-result.php:358
+#: admin/partials/player-leaderboard-result.php:360
+#: admin/partials/player-leaderboard-result.php:364
+#: admin/partials/player-leaderboard-result.php:366
+#: admin/partials/player-leaderboard-results-multiple.php:207
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: admin/partials/player-leaderboard-competition.php:442
+#: admin/partials/player-leaderboard-players.php:112
+#: admin/partials/player-leaderboard-results.php:128
+msgid "CSV Export"
+msgstr "CSV Exportieren"
+
+#: admin/partials/player-leaderboard-competition.php:455
+msgid "Preview"
+msgstr "Vorschau"
+
+#: admin/partials/player-leaderboard-competition.php:459
+msgid "Hide Preview"
+msgstr "Vorschau Ausblenden"
+
+#: admin/partials/player-leaderboard-competition.php:465
+msgid "Show Preview"
+msgstr "Vorschau Anzeigen"
+
+#: admin/partials/player-leaderboard-competition.php:506
+msgid "Teams of"
+msgstr "Mannschaften von"
+
+#: admin/partials/player-leaderboard-competition.php:506
+msgid "Players of"
+msgstr "Teilnehmer"
+
+#: admin/partials/player-leaderboard-competition.php:513
+msgid "Recalc"
+msgstr "Berechnen"
+
+#: admin/partials/player-leaderboard-competition.php:525
+msgid "Points Average"
+msgstr "Punktemittel"
+
+#: admin/partials/player-leaderboard-competition.php:529
+msgid "Rating Average"
+msgstr "Wertungsmittel"
+
+#: admin/partials/player-leaderboard-competitions.php:35
+msgid "Competition deleted!"
+msgstr "Wettbewerb wurde gelöscht!"
+
+#: admin/partials/player-leaderboard-competitions.php:38
+msgid "Competition successfully changed!"
+msgstr "Wettbewerb wurde erfolgreiche geändert!"
+
+#: admin/partials/player-leaderboard-competitions.php:41
+msgid "Competition successfully created!"
+msgstr "Neuer Wettbewerb erfolgreich erstellt!"
+
+#: admin/partials/player-leaderboard-competitions.php:59
+msgid "Manage Competitions"
+msgstr "Wettbewerbe Verwalten"
+
+#: admin/partials/player-leaderboard-competitions.php:66
+msgid "Create New Competition"
+msgstr "Neuen Wettkampf Anlegen"
+
+#: admin/partials/player-leaderboard-competitions.php:98
+msgid "Shortcut"
+msgstr "Shortcut"
+
+#: admin/partials/player-leaderboard-player.php:95
+msgid "Delete Player"
+msgstr "Spieler Löschen"
+
+#: admin/partials/player-leaderboard-player.php:96
+msgid "Delete the player?"
+msgstr "Willst Du den Spieler wirklich löschen?"
+
+#: admin/partials/player-leaderboard-player.php:115
+#: public/partials/player-leaderboard-public-ranking.php:81
+#: public/partials/player-leaderboard-public-standing.php:77
+msgid "Player"
+msgstr "Spieler"
+
+#: admin/partials/player-leaderboard-player.php:116
+msgid "edit"
+msgstr "bearbeiten"
+
+#: admin/partials/player-leaderboard-player.php:120
+msgid "Create Team"
+msgstr "Team Anlegen"
+
+#: admin/partials/player-leaderboard-player.php:120
+msgid "Create Player"
+msgstr "Neuen Spieler Anlegen"
+
+#: admin/partials/player-leaderboard-player.php:153
+msgid "Name of the team"
+msgstr "Name der Mannschaft"
+
+#: admin/partials/player-leaderboard-player.php:155
+msgid "Name of the player"
+msgstr "Name des Spielers"
+
+#: admin/partials/player-leaderboard-player.php:189
+msgid "Bithday"
+msgstr "Geburtstag"
+
+#: admin/partials/player-leaderboard-player.php:196
+msgid "Player Pass"
+msgstr "Passnummer"
+
+#: admin/partials/player-leaderboard-player.php:203
+msgid "Rating of the team"
+msgstr "Wertung der Mannschaft"
+
+#: admin/partials/player-leaderboard-player.php:205
+msgid "Rating of the player"
+msgstr "Rating des Spielers"
+
+#: admin/partials/player-leaderboard-player.php:213
+msgid "Ranking Position"
+msgstr "Ranglistenposition"
+
+#: admin/partials/player-leaderboard-player.php:220
+#: admin/partials/player-leaderboard-result.php:303
+#: admin/partials/player-leaderboard-results-multiple.php:113
+msgid "Comment"
+msgstr "Kommentar"
+
+#: admin/partials/player-leaderboard-player.php:226
+msgid "Address"
+msgstr "Adresse"
+
+#: admin/partials/player-leaderboard-player.php:237
+msgid "Phone"
+msgstr "Telefon"
+
+#: admin/partials/player-leaderboard-player.php:243
+msgid "Email"
+msgstr "E-Mail"
+
+#: admin/partials/player-leaderboard-player.php:284
+#: public/class-player-leaderboard-public.php:664
+msgid "Results of"
+msgstr "Ergebnisse von"
+
+#: admin/partials/player-leaderboard-player.php:290
+msgid "Double1"
+msgstr "Doppel1"
+
+#: admin/partials/player-leaderboard-player.php:291
+msgid "Double2"
+msgstr "Doppel2"
+
+#: admin/partials/player-leaderboard-player.php:293
+msgid "Team1"
+msgstr "Mannschaft 1"
+
+#: admin/partials/player-leaderboard-player.php:294
+msgid "Team2"
+msgstr "Mannschaft 2"
+
+#: admin/partials/player-leaderboard-player.php:300
+msgid "Game"
+msgstr "Spiel"
+
+#: admin/partials/player-leaderboard-player.php:307
+msgid "Set4"
+msgstr "Satz4"
+
+#: admin/partials/player-leaderboard-player.php:308
+msgid "Set5"
+msgstr "Satz5"
+
+#: admin/partials/player-leaderboard-player.php:310
+msgid "Set6"
+msgstr "Satz6"
+
+#: admin/partials/player-leaderboard-player.php:311
+msgid "Set7"
+msgstr "Satz7"
+
+#: admin/partials/player-leaderboard-players.php:63
+msgid "Player deleted!"
+msgstr "Spieler wurde gelöscht!"
+
+#: admin/partials/player-leaderboard-players.php:66
+msgid "Player successfully changed!"
+msgstr "Spieler wurde erfolgreich geändert!"
+
+#: admin/partials/player-leaderboard-players.php:69
+msgid "Player successfully created!"
+msgstr "Neuer Spieler wurde erfolgreich erstellt!"
+
+#: admin/partials/player-leaderboard-players.php:76
+#: admin/partials/player-leaderboard-results.php:89
+msgid "Please select a competition!"
+msgstr "Bitte einen Wettbewerb auswählen!"
+
+#: admin/partials/player-leaderboard-players.php:96
+msgid "Manage Players"
+msgstr "Spieler Verwalten"
+
+#: admin/partials/player-leaderboard-players.php:104
+msgid "Create New Player"
+msgstr "Neuen Spieler Anlegen"
+
+#: admin/partials/player-leaderboard-result.php:89
+msgid "Delete Result"
+msgstr "Ergebnis Löschen"
+
+#: admin/partials/player-leaderboard-result.php:90
+msgid "Delete the result?"
+msgstr "Willst Du das Ergebnis wirklich löschen?"
+
+#: admin/partials/player-leaderboard-result.php:107
+msgid "Edit Result"
+msgstr "Spielergebnis Bearbeiten"
+
+#: admin/partials/player-leaderboard-result.php:107
+msgid "Create Result"
+msgstr "Spielergebnis Erfassen"
+
+#: admin/partials/player-leaderboard-result.php:109
+msgid "Show Result"
+msgstr "Anzeige Spielergebnis"
+
+#: admin/partials/player-leaderboard-result.php:138
+#: admin/partials/player-leaderboard-results-multiple.php:61
+msgid "Selected Competition"
+msgstr "Ausgewählter Wettbewerb"
+
+#: admin/partials/player-leaderboard-result.php:149
+#: admin/partials/player-leaderboard-results-multiple.php:75
+msgid "Player 1"
+msgstr "Spieler 1"
+
+#: admin/partials/player-leaderboard-result.php:152
+#: admin/partials/player-leaderboard-results-multiple.php:78
+msgid "Double 1"
+msgstr "Doppel 1"
+
+#: admin/partials/player-leaderboard-result.php:155
+#: admin/partials/player-leaderboard-results-multiple.php:81
+msgid "Team 1"
+msgstr "Mannschaft 1"
+
+#: admin/partials/player-leaderboard-result.php:183
+#: admin/partials/player-leaderboard-results-multiple.php:88
+msgid "Player 2"
+msgstr "Spieler 2"
+
+#: admin/partials/player-leaderboard-result.php:186
+#: admin/partials/player-leaderboard-results-multiple.php:91
+msgid "Double 2"
+msgstr "Doppel 2"
+
+#: admin/partials/player-leaderboard-result.php:189
+#: admin/partials/player-leaderboard-results-multiple.php:94
+msgid "Team 2"
+msgstr "Mannschaft 2"
+
+#: admin/partials/player-leaderboard-result.php:216
+#: admin/partials/player-leaderboard-results-multiple.php:99
+msgid "Result"
+msgstr "Ergebnis"
+
+#: admin/partials/player-leaderboard-result.php:228
+#: admin/partials/player-leaderboard-results-multiple.php:101
+msgid "Set 1"
+msgstr "Satz 1"
+
+#: admin/partials/player-leaderboard-result.php:238
+#: admin/partials/player-leaderboard-results-multiple.php:102
+msgid "Set 2"
+msgstr "Satz 2"
+
+#: admin/partials/player-leaderboard-result.php:248
+#: admin/partials/player-leaderboard-results-multiple.php:103
+msgid "Set 3"
+msgstr "Satz 3"
+
+#: admin/partials/player-leaderboard-result.php:259
+#: admin/partials/player-leaderboard-results-multiple.php:105
+msgid "Set 4"
+msgstr "Satz 4"
+
+#: admin/partials/player-leaderboard-result.php:269
+#: admin/partials/player-leaderboard-results-multiple.php:106
+msgid "Set 5"
+msgstr "Satz 5"
+
+#: admin/partials/player-leaderboard-result.php:280
+#: admin/partials/player-leaderboard-results-multiple.php:108
+msgid "Set 6"
+msgstr "Satz 6"
+
+#: admin/partials/player-leaderboard-result.php:290
+#: admin/partials/player-leaderboard-results-multiple.php:109
+msgid "Set 7"
+msgstr "Satz 7"
+
+#: admin/partials/player-leaderboard-results-multiple.php:41
+msgid "Create Results"
+msgstr "Spielergebnisse Erfassen"
+
+#: admin/partials/player-leaderboard-results.php:73
+msgid "Result deleted!"
+msgstr "Ergebnis wurde gelöscht!"
+
+#: admin/partials/player-leaderboard-results.php:76
+msgid "Result successfully changed!"
+msgstr "Ergebnis wurde erfolgreich geändert!"
+
+#: admin/partials/player-leaderboard-results.php:79
+msgid "Result successfully created!"
+msgstr "Neues Ergebnis wurde erfolgreich erstellt!"
+
+#: admin/partials/player-leaderboard-results.php:82
+msgid "Results successfully created!"
+msgstr "Neues Ergebnisse wurde erfolgreich erstellt!"
+
+#: admin/partials/player-leaderboard-results.php:104
+msgid "Manage Results"
+msgstr "Ergebnisse Verwalten"
+
+#: admin/partials/player-leaderboard-results.php:130
+msgid "search"
+msgstr "suchen"
+
+#: admin/partials/player-leaderboard-results.php:135
+msgid "Please Select"
+msgstr "Bitte auswählen"
+
+#: player-leaderboard.php:303
+msgid "Management of a player leaderboard"
+msgstr ""
+"Verwaltung von Spielergebnisse für Badminton, Tennis, Tischtennis und Squash"
+
+#: public/class-player-leaderboard-public.php:1257
+#: public/partials/player-leaderboard-public-standing.php:86
+msgid "Games"
+msgstr "Spiele"
+
+#: public/partials/player-leaderboard-public-matrix.php:21
+#: public/partials/player-leaderboard-public-ranking.php:21
+#: public/partials/player-leaderboard-public-standing.php:21
+msgid "Competition ID not set."
+msgstr "Wettbewerbs ID nicht gesetzt."
+
+#: public/partials/player-leaderboard-public-matrix.php:47
+#: public/partials/player-leaderboard-public-ranking.php:57
+#: public/partials/player-leaderboard-public-standing.php:47
+msgid "Competition ID invalid."
+msgstr "Wettbewerbs ID ist ungültig."
+
+#: public/partials/player-leaderboard-public-matrix.php:54
+#: public/partials/player-leaderboard-public-ranking.php:64
+#: public/partials/player-leaderboard-public-standing.php:54
+msgid "Competition not found."
+msgstr "Wettbewerb nicht gefunden."
+
+#: public/partials/player-leaderboard-public-ranking.php:73
+msgid "Ranking"
+msgstr "Ranking"
+
+#: public/partials/player-leaderboard-public-standing.php:67
+msgid "Standing"
+msgstr "Tabelle"
+
+#: public/partials/player-leaderboard-public-standing.php:81
+msgid "Matches"
+msgstr "Anzahl"
+
+#~ msgid "New"
+#~ msgstr "Neu"
+
+#~ msgid "Victory Rating"
+#~ msgstr "Bewertung"
+
+#, fuzzy
+#~| msgid "Male"
+#~ msgid "Mal"
+#~ msgstr "Männlich"
+
+#~ msgid "Ranking Points"
+#~ msgstr "Ranking Points"
+
+#~ msgid "Old Rating"
+#~ msgstr "Alte Wertung"
+
+#~ msgid "New Rating"
+#~ msgstr "Neue Wertung"
+
+#~ msgid "Club Number"
+#~ msgstr "Vereinsnummer"
+
+#~ msgid "Create Team Player"
+#~ msgstr "Neue Spieler Anlegen"
+
+#~ msgid "Tean1"
+#~ msgstr "Team1"
+
+#~ msgid "Tean2"
+#~ msgstr "Team2"
+
+#~ msgid "Max number of sets"
+#~ msgstr "Max. Sätze"
+
+#~ msgid "Delete Competition"
+#~ msgstr "Wettbewerb Löschen"
+
+#~ msgid "Recalc Competition"
+#~ msgstr "Wettbewerb neu bewerten"
+
+#, fuzzy
+#~| msgid "Rating"
+#~ msgid "rating"
+#~ msgstr "Wertung"
+
+#~ msgid "Select"
+#~ msgstr "Auswahl"
+
+#~ msgid "Y/m/d g:i a"
+#~ msgstr "d.m.Y H:i"
+
+#~ msgid "Point"
+#~ msgstr "Punkt"

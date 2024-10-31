@@ -1,0 +1,249 @@
+.pl-csv-import {
+    display: none;
+}
+
+.pl-admin-content {
+    background: #fff;
+}
+
+.pl-admin-action-panel-top {
+    padding: 20px 10px 10px 10px;
+    background: #ddd;
+}
+
+.pl-admin-action-panel-bottom {
+    padding: 10px;
+    background: #ddd;
+    border-radius: 0px 0px 5px 5px;
+}
+
+.pl-admin-column {
+    float: left;
+    width: 49%;
+    margin-right: 10px;
+    background: #fff;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}
+
+.pl-admin-column-small {
+    float: left;
+    width: 24%;
+    margin-right: 10px;
+    background: #fff;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}
+
+.pl-admin-full {
+    float: left;
+    width: 99%;
+    margin-right: 10px;
+    background: #fff;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}
+
+.pl-admin-header {
+    background: #82bdcf;
+    color: #fff !important;
+    border-radius: 5px 5px 0px 0px;
+    padding: 20px !important;
+    font-size: 14px;
+}
+
+.pl-admin-footer {
+    background: darkgrey;
+    color: #fff !important;
+    border-radius: 0px 0px 5px 5px;
+    padding: 20px !important;
+}
+
+/* Admin form layout */
+
+.pl-admin-form {
+    padding: 20px;
+}
+
+.pl-admin-form-group {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+[class*="pl-admin-form-col"] {
+    flex: 0 1 100%;
+    margin: 5px 0px;
+}
+
+.pl-admin-label {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+}
+
+.pl-admin-input-100  {
+    /*display: block;*/
+    width: 100%;
+}
+
+.pl-admin-input-90  {
+    /*display: block;*/
+    width: 90%;
+}
+
+.pl-admin-input-80  {
+    /*display: block;*/
+    width: 80%;
+}
+
+.pl-admin-input-70  {
+    /*display: block;*/
+    width: 70%;
+}
+
+.pl-admin-input-50  {
+    /*display: block;*/
+    width: 50%;
+}
+
+.pl-admin-input-40  {
+    /*display: block;*/
+    width: 40%;
+}
+
+.pl-admin-input-25  {
+    /*display: block;*/
+    width: 25%;
+}
+
+@media (min-width: 576px) {
+    .pl-admin-form-col-2 {
+        flex: 0 0 15%;
+        max-width: 15%;
+    }
+
+    .pl-admin-form-col-3 {
+        flex: 0 0 25%;
+        max-width: 25%;
+    }
+
+    .pl-admin-form-col-4 {
+        flex: 0 0 30%;
+        max-width: 30%;
+    }
+
+    .pl-admin-form-col-6 {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+
+    .pl-admin-form-col-8 {
+        flex: 0 0 66%;
+        max-width: 66%;
+    }
+
+    .pl-admin-form-col-9 {
+        flex: 0 0 70%;
+        max-width: 70%;
+    }
+
+    .pl-admin-offset-form-col-4 {
+        margin-left: 30%;
+    }
+
+    .pl-admin-input-25  {
+        width: 25%;
+        background-color: lightgray;
+    }
+}
+
+.pl-admin-button {
+    min-width: 120px;
+    text-align: center;
+    border: none;
+    background-color: lightgray;
+    color: black;
+}
+
+.pl-admin-form-row  {
+    width: 100%;
+}
+
+/* */
+
+.pl-preview #rating, #duels {
+     width: 10%;
+}
+
+/*
+@media all and (max-width:768px) {
+    .pl-form-table tr {
+        display: table;
+        width:100%;
+    }
+    .pl-form-table td {
+        display: table-row;
+    }
+}
+
+table.pl-form-table th {
+    text-align: left;
+    width: 200px;
+    padding-right: 24px;
+}
+
+table.pl-form-table th label {
+    position: relative;
+    display: block;
+    float: left;
+}
+*/
+
+/* --------- Tooltip Styles ---------- */
+
+.pl-help-tip {
+    position: relative;
+    background: rgba(0,0,0,0.1);
+    padding: 1px 8px;
+    border-radius: 100%;
+    font-size: 10px;
+    cursor: help;
+}
+
+.pl-help-tip::before, .pl-help-tip::after{
+    position: absolute;
+    opacity: 0;
+    visibility: hidden;
+}
+
+.pl-help-tip::before {
+    content: "";
+    border-width: 10px 8px 08px;
+    border-style: solid;
+    border-color: rgba(0,0,0,0.1) transparent transparent transparent;
+    top: -10px;
+    margin-left: -8px;
+}
+
+.pl-help-tip::after {
+    content: attr(data-tooltip);
+    background: #ddd;
+    top: -10px;
+    transform: translateY(-100%);
+    font-size: 12px;
+    margin-left: -50px;
+    width: 250px;
+    border-radius: 10px;
+    color: #555;
+    padding: 14px;
+}
+
+/* Hover states - Show the tool tip*/
+.pl-help-tip:hover::before, .pl-help-tip:hover::after {
+    opacity: 1;
+    visibility: visible;
+}
+
+.pl-help-tip::before, .pl-help-tip::after {
+    transition: all ease 0.3s;
+}
